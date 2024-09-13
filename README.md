@@ -20,6 +20,8 @@ def flash_attn_varlen_func(
     pass
 ```
 
+detail see [my note](https://github.com/66RING/Notes/blob/master/universe/ml/flash_attn_varlen_batcing_api_usage.md)
+
 try:
 
 ```python
